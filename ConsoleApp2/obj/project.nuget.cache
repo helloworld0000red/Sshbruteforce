@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBvgSFfQQ7scZ2cTo0kGExRfpQ6rGqyo8+PwAony+qZ8KXgiiUI1cHLEPhKhsjVwZ8Cfw+q+db8jDmT7i5006Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\potca\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\potca\\.nuget\\packages\\ssh.net\\2023.0.1\\ssh.net.2023.0.1.nupkg.sha512",
+    "C:\\Users\\potca\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
